@@ -5,6 +5,9 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Olá Mundo!!");
+		
+		//Exercicios básicos Java - Tipos Primitivos de dados
+		
 
 	}
 
